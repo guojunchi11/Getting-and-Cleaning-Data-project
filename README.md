@@ -3,7 +3,7 @@
 5 quesitons denoted as: Q1, Q2, Q3, Q4 and Q5
 
 =================================================================
-code book: I think the varailes are defined clearly, together with comments.
+code book: I think the variables are defined clearly, together with comments.
 
 Clarification: in Q2, I extracted the following variables with mean() or std(), so in totall 2*(3*8 +9) = 66 variables.
 Q4 is done in the Q2.
