@@ -11,7 +11,7 @@
 
 * In Q5, tidy.txt is a 180 by 66 data.frame, where 180 = 6 times 30, number of activity labels times number of subjects.
 
-* in Q2, I extracted the following variables with mean() or std(), so in totall 2*(3*8 +9) = 66 variables.
+* in Q2, I extracted the following variables ending with mean() or std(), so in totall 2*(3*8 +9) = 66 variables.
 
 * tBodyAcc-XYZ
 * tGravityAcc-XYZ
