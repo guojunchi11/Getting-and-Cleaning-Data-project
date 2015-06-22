@@ -9,7 +9,7 @@
 
 * Q4 is done in the Q2.
 
-* In Q5, tidy.txt is a 180*66 data.frame, where 180 = 6*60, number of activity labels times number of subjects.
+* In Q5, tidy.txt is a 180 by 66 data.frame, where 180 = 6 times 30, number of activity labels times number of subjects.
 
 * in Q2, I extracted the following variables with mean() or std(), so in totall 2*(3*8 +9) = 66 variables.
 
